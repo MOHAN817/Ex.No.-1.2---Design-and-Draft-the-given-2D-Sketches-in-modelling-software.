@@ -38,5 +38,6 @@
  ## OUTPUT
  
  
- ## RESULT
+ ## RESULT[EX_1.2 (1).pdf](https://github.com/user-attachments/files/18296298/EX_1.2.1.pdf)
+
  Thus the given sketch is drawn and drafted using fusion 360 tool.
